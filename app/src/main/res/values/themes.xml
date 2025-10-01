@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.RubenApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/bb_primary</item>
+        <item name="colorOnPrimary">@color/bb_on_primary</item>
+        <item name="android:windowBackground">@color/bb_bg</item>
+    </style>
+</resources>

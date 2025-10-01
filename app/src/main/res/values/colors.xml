@@ -1,0 +1,9 @@
+<resources>
+    <color name="bb_primary">#6B8E23</color>
+    <color name="bb_on_primary">#FFFFFF</color>
+    <color name="bb_bg">#F6F8FF</color>
+    <color name="bb_surface">#FFFFFF</color>
+    <color name="bb_on_surface">#1F2937</color>
+    <color name="bb_outline">#E5E7EB</color>
+</resources>
+
